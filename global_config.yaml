@@ -1,1 +1,10 @@
+# ========== 所有Skill公共共享信息 ==========
+project_id: "SK2026001"
+operator: "admin"
+server_env: "Windows Server 2019"
+timezone: "Asia/Shanghai"
+log_level: "INFO"
 
+# 公共阈值参数（多个skill会复用）
+memory_threshold: 85
+disk_threshold: 90
